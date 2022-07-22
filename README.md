@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @senpailys
-- 👀 I’m interested in building software!
-- 🌱 I’m currently learning java, ARM64
-- 📫 How to reach me: @alyssahammonds5453@gmail.com
+- 👋 howdy!!!
